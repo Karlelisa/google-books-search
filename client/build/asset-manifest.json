@@ -1,14 +1,14 @@
 {
-  "main.css": "/google-search-app/static/css/main.defcb9d5.chunk.css",
-  "main.js": "/google-search-app/static/js/main.5f1b4e34.chunk.js",
-  "main.js.map": "/google-search-app/static/js/main.5f1b4e34.chunk.js.map",
-  "runtime~main.js": "/google-search-app/static/js/runtime~main.c51d270c.js",
-  "runtime~main.js.map": "/google-search-app/static/js/runtime~main.c51d270c.js.map",
-  "static/js/2.ffda7b41.chunk.js": "/google-search-app/static/js/2.ffda7b41.chunk.js",
-  "static/js/2.ffda7b41.chunk.js.map": "/google-search-app/static/js/2.ffda7b41.chunk.js.map",
-  "index.html": "/google-search-app/index.html",
-  "precache-manifest.4acaaab2baa674728224c6fc9ff4387b.js": "/google-search-app/precache-manifest.4acaaab2baa674728224c6fc9ff4387b.js",
-  "service-worker.js": "/google-search-app/service-worker.js",
-  "static/css/main.defcb9d5.chunk.css.map": "/google-search-app/static/css/main.defcb9d5.chunk.css.map",
-  "static/media/style.css": "/google-search-app/static/media/google-pic-one.5f8c24eb.png"
+  "main.css": "/google-books-search/static/css/main.4e968db3.chunk.css",
+  "main.js": "/google-books-search/static/js/main.5f1b4e34.chunk.js",
+  "main.js.map": "/google-books-search/static/js/main.5f1b4e34.chunk.js.map",
+  "runtime~main.js": "/google-books-search/static/js/runtime~main.9ad78463.js",
+  "runtime~main.js.map": "/google-books-search/static/js/runtime~main.9ad78463.js.map",
+  "static/js/2.ffda7b41.chunk.js": "/google-books-search/static/js/2.ffda7b41.chunk.js",
+  "static/js/2.ffda7b41.chunk.js.map": "/google-books-search/static/js/2.ffda7b41.chunk.js.map",
+  "index.html": "/google-books-search/index.html",
+  "precache-manifest.b325eba200e484f9b6a04568d28fe0ef.js": "/google-books-search/precache-manifest.b325eba200e484f9b6a04568d28fe0ef.js",
+  "service-worker.js": "/google-books-search/service-worker.js",
+  "static/css/main.4e968db3.chunk.css.map": "/google-books-search/static/css/main.4e968db3.chunk.css.map",
+  "static/media/style.css": "/google-books-search/static/media/google-pic-one.5f8c24eb.png"
 }
